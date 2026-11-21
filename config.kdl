@@ -28,4 +28,5 @@ binds {
     Mod+B { spawn "firefox"; }
     Mod+E { spawn "nautilus"; }
     Mod+R { spawn "Telegram"; }
+    Mod+Shift+S { screenshot; } 
 }
